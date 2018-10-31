@@ -1,4 +1,4 @@
-FROM  adoptopenjdk/openjdk8:jdk8u172-b11-alpine
+FROM  adoptopenjdk/openjdk8:jdk8u181-b13-alpine
 
 ENV SBT_VERSION=1.2.6
 
